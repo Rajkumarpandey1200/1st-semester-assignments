@@ -1,0 +1,9 @@
+SQL Commands:
+
+DDL:Data Defination Language(CREATE,ALTER,DROP,TRUCATE)
+DML:Data manipulation Language(INSERT,UPDATE,DELETE )
+DCL:Data control lang ()
+DRL:data retrival lang(select,)
+TCL:transition control lang(commit,rollback,savepoint)
+
+create table DEPT1(DEPTNO NUMBER(5) PRIMARY KEY NOT NULL, DNAME VARCHAR2(14),LOC VARCHAR2(14));
