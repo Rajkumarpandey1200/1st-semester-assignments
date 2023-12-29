@@ -3,7 +3,7 @@
 # i=prt/100
 
 
-import math
+
 p=eval(input("enter the principal amount :"))
 r=eval(input("enter the rate of interest:"))
 t=eval(input("enter time period:"))
